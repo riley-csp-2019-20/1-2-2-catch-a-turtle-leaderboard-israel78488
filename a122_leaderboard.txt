@@ -1,0 +1,3 @@
+israelite,12
+Israel,10
+israel,0
